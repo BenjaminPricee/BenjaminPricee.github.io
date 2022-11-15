@@ -1,0 +1,28 @@
+body{
+	font-family: Verdana, sans-serif;
+	margin: 0px;
+	background: white;
+
+}
+
+a{
+	color: white;
+	text-decoration: none;
+}
+
+.intro{
+	width: 100%;
+
+	position: relative;
+ 	text-align: center;
+}
+
+.introText{
+	position: absolute;
+	top: 85%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+
+	color: white;
+	font-size: 42px;
+}
