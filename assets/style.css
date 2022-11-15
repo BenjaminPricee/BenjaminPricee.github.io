@@ -2,7 +2,7 @@ body{
 	font-family: Verdana, sans-serif;
 	margin: 0px;
 	background: white;
-
+	border-bottom: none;
 }
 
 a{
@@ -24,5 +24,32 @@ a{
 	transform: translate(-50%, -50%);
 
 	color: white;
-	font-size: 42px;
+	font-size: 40px;
+}
+
+.exit{
+	background: black;
+
+}
+
+.findMe{
+	position: absolute;
+	
+
+}
+
+.contactMe{
+	position: absolute;
+  top: 8px;
+  right: 16px;
+
+}
+
+ul{
+	color:white;
+	font-size: 18px;
+}
+
+li{
+	font-size: 12px;
 }
