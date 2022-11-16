@@ -35,6 +35,13 @@ a{
 	border-width: 72px;
 }
 
+.tag{
+	color: white;
+	background: black;
+	text-align: center;
+	padding: 4px;
+}
+
 ul{
 	margin: 0px;
 	padding: 4px 72px;
