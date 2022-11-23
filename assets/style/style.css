@@ -1,0 +1,32 @@
+body, html{
+	font-family: Verdana, sans-serif;
+	height:100%;
+	padding: 0px;
+	margin: 0px;
+}
+
+a{
+	color: white;
+	text-decoration: none;
+}
+
+.intro{
+	background-image: url("../images/Teaser.png");
+
+	width: 100%;
+	height: 100%;
+
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.introText{
+	position: absolute;
+	top: 85%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+
+	color: white;
+	font-size: 40px;
+}
