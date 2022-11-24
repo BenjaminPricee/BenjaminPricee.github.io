@@ -16,5 +16,13 @@
 
 .splide__slide .desc{
   text-align: center;
-  margin: 12px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  margin-top: 24px;
+}
+
+.splide__slide .desc li{
+  list-style: none;
+  text-align: left;
 }

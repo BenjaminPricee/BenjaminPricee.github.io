@@ -5,11 +5,6 @@ body, html{
 	margin: 0px;
 }
 
-a{
-	color: white;
-	text-decoration: none;
-}
-
 .intro{
 	background-image: url("../images/Teaser.png");
 
@@ -20,6 +15,11 @@ a{
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
+}
+
+.intro .a{
+	color: white;
+	text-decoration: none;
 }
 
 .introText{
