@@ -26,3 +26,13 @@
   list-style: none;
   text-align: left;
 }
+
+.splide__slide .desc a{
+  text-decoration: none;
+  font-weight: bold;
+  color: rgb(15, 139, 141);
+}
+
+.splide__slide .desc b{
+  color: rgb(100, 58, 113);
+}
